@@ -1,0 +1,11 @@
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\bin\Debug\PracticaUnoLFP.exe.config
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\bin\Debug\PracticaUnoLFP.exe
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\bin\Debug\PracticaUnoLFP.pdb
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\obj\Debug\PracticaUnoLFP.csprojAssemblyReference.cache
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\obj\Debug\PracticaUnoLFP.Properties.Resources.resources
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\obj\Debug\PracticaUnoLFP.csproj.GenerateResource.cache
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\obj\Debug\PracticaUnoLFP.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\obj\Debug\PracticaUnoLFP.exe
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\obj\Debug\PracticaUnoLFP.pdb
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\obj\Debug\PracticaUnoLFP.Principal.resources
+C:\Users\CARLOS\source\repos\PracticaUnoLFP\PracticaUnoLFP\obj\Debug\PracticaUnoLFP.Datos.resources

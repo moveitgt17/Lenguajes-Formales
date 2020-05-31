@@ -1,0 +1,44 @@
+body{
+    background-color: cornsilk;
+    
+}
+.G{
+    background-color: aqua;
+    margin: 5px, 5px;
+    width: 660px;
+}
+.AFD{
+    background-color: chocolate;
+    margin:  9px 9px;
+    width: 660px;
+}
+.P{
+    background-color: yellowgreen;
+    width: 660PX;
+    margin: 5px, 5px;
+}
+.Sin{
+    background-color: violet;
+    width: 660px;
+    margin: 5px 5px;
+}
+.PSR{
+    background-color: coral;
+    width: 660px;
+    margin: 5px, 5px;
+}
+.CV{
+    background-color: darkorchid;
+    width: 440px;
+    margin:  3px, 3px;
+}
+.CI{
+    background-color: deeppink;
+    width: 440px;
+    margin: 3px 3px;
+}
+.CE{
+    background-color: deepskyblue;
+    width: 440PX;
+    margin: 3PX 2px;
+}

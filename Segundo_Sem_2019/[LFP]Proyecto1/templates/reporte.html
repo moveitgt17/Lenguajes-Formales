@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<head>
+    <title>{{name}}</title>
+    <link href="templates/estilo.css" rel="stylesheet" type="text/css">
+    <H1>{{name}}</H1>
+</head>
+<body>
+    <P></P>
+    <table>
+        <tr>
+            <td>
+                <div class="G">
+                    <h3>Gramatica</h3>
+                    <h4>-No terminales: {{nTerm}}</h4>
+                    <h4>-Terminales: {{term}}</h   4>
+                    <h4>-Inicio: {{startt}}</h4>
+                    <h4> </h4>
+                </div>
+            </td>
+            <td>
+                <div class="AFD">
+                    <h3>AFD</h3>
+                    <H4>-Alfabeto: {{al}}</H4>
+                    <h4>-Estados: {{es}}</h4>
+                    <h4>-Estado Inicial: {{init}}</h4>
+                    <h4>-Estados de Aceptacion: {{as}}</h4>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="P">
+                    <h3>Producciones Gramatica</h3>
+                    <div>{{ppp}}</div>
+                </div>
+            </td>
+            <td>
+                <img src="prueb.gv.png">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="Sin">
+                    <h3>Gramaticas sin recursividad a la izquierda</h3>
+                    <h4>-No terminales: ESTA GRAMATICA NO TIENE RECURSIVIDAD A LA IZQUIERDA</h4>
+                    <h4>-Terminales: ESTA GRAMATICA NO TIENE RECURSIVIDAD A LA IZQUIERDA</h4>
+                    <h4>-Inicio: ESTA GRAMATICA NO TIENE RECURSIVIDAD A LA IZQUIERDA</h4>
+                </div>
+            </td>
+            <td>
+                <div class="PSR">
+                    <h3>Producciones de Gramatica sin recursividad a la izquierda</h3>
+                    <div>ESTA GRAMATICA NO TIENE RECURSIVIDAD A LA IZQUIERDA</div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="CV">
+                    <h3>Cadenas validas</h3>
+                    <div>CADENAS</div>
+                </div>
+                <DIV class="CI">
+                    <h3>Cadenas invalidas</h3>
+                    <div>Cadenas</div>
+                </DIV>
+                <div class="CE">
+                    <h3>Cadenas evaluadas</h3>
+                    <div>Cadenas</div>
+                </div>
+            </td>
+        </tr>
+    </table>   
+</body>
+</html>

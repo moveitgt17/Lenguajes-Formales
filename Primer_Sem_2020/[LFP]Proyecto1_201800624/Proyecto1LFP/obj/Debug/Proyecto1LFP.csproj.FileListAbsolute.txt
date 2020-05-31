@@ -1,0 +1,11 @@
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\bin\Debug\Proyecto1LFP.exe.config
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\bin\Debug\Proyecto1LFP.exe
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\bin\Debug\Proyecto1LFP.pdb
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\obj\Debug\Proyecto1LFP.csprojAssemblyReference.cache
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\obj\Debug\Proyecto1LFP.Form1.resources
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\obj\Debug\Proyecto1LFP.Properties.Resources.resources
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\obj\Debug\Proyecto1LFP.csproj.GenerateResource.cache
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\obj\Debug\Proyecto1LFP.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\obj\Debug\Proyecto1LFP.exe
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\obj\Debug\Proyecto1LFP.pdb
+C:\Users\CARLOS\source\repos\Proyecto1LFP\Proyecto1LFP\obj\Debug\Proyecto1LFP.Information.resources

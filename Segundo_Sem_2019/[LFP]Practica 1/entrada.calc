@@ -1,0 +1,21 @@
+sum[2,3,-23423, -2.1, 50, 23423]
+solve[fact(5)]
+solve[fact(5) + ack(3,2)]
+solve[ack(3,6)]
+suM[12, -2, 0, 0, 32, 50, -43]
+solve[ack(3, 4) + fact(5) + fib(1) + fib(5)]
+
+
+
+
+solve[ fib(5)]
+solve[aCk(3,4)]
+soLve[fact(3)/2*3/exp(-1, 2)*exp(20, 5)*0.5]
+
+sort[0,0, 5,312,-34,-1, 35423] --typE=DeSc
+
+sort[1.002, -1.0006, 1.00008, 1.00009, 56, 1.05] --Type=Asc
+
+exec --file="error.calc"
+exec --file="index.html"
+exec --file="entrada2.calc"
